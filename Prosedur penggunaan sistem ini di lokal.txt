@@ -1,0 +1,8 @@
+1. Silahkan download sistem standar backend ini pada brances master.
+2. Buat akun hak akses untuk mengakses database :
+    - host : localhost
+    - database : komando
+    - username : ulo
+    - password : halah10
+3. Import database dengan nama "project.sql" di folder db.
+4. Buat folder di dalam htdocs dan copy file sistem yang telah di download lalu paste ke folder yang telah di buat sebelumnya.
